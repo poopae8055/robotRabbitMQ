@@ -1,8 +1,6 @@
 *** Setting ***
-Library    OperatingSystem
 Library    RabbitMq
 Library    json
-Variables    testdata/header_msg.yaml
 Variables    testdata/body_msg.yaml
 Variables    testdata/common.yaml
 
