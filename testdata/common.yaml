@@ -1,0 +1,10 @@
+#rabbit
+rabbitmq_host: localhost
+http_port: 15672
+amqp_port: 5672
+username: guest
+password: guest
+alias: rmq
+rb_vhost: /
+exchange_name: amq.direct
+routing_key: send.test.message
